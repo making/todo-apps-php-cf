@@ -11,7 +11,7 @@ inputs:
   - name: resource-todo-app
     
 params:
-  GITHUB_TOKEN:
+  GITHUB_TOKEN: 
 run:
   path: bash	
   args: 
