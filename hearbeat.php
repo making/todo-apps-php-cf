@@ -1,1 +1,1 @@
-OK - Version 6.0
+OK - Version 7.0
